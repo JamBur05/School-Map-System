@@ -1,0 +1,587 @@
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe.config
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csprojAssemblyReference.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.lref
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.g.resources
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.Properties.Resources.resources
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.GenerateResource.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CoreCompileInputs.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.exe
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_Content.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CopyComplete
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\LoginRegisterScreen.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\MainWindow.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\LoginRegisterScreen.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\MainWindow.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Material.Icons.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\ButtonTheme.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe.config
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Material.Icons.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.AssemblyReference.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\ButtonTheme.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\LoginRegisterScreen.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\MainWindow.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_Content.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.lref
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\LoginRegisterScreen.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\MainWindow.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.g.resources
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.Properties.Resources.resources
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.GenerateResource.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CoreCompileInputs.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CopyComplete
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.exe
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Design Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe.config
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Material.Icons.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.AssemblyReference.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\ButtonTheme.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_Content.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.lref
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.g.resources
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.Properties.Resources.resources
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.GenerateResource.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CoreCompileInputs.cache
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CopyComplete
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.exe
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Dapper.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Dapper.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmMainWindow.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmMainWindow.baml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmEditTimetable.g.cs
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmEditTimetable.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe.config
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Dapper.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\itextsharp.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Material.Icons.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Dapper.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\itextsharp.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Drawing.Common.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csprojAssemblyReference.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\ButtonTheme.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmMainWindow.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmEditTimetable.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_Content.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.lref
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmMainWindow.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmEditTimetable.baml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.g.resources
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.Properties.Resources.resources
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.GenerateResource.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CoreCompileInputs.cache
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CopyComplete
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.exe
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\itextsharp.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\itextsharp.xml
+C:\Users\jb37182\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Drawing.Common.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmDataVisualization.g.cs
+C:\Users\James\OneDrive - Woking College\A Level Computer Science\NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmDataVisualization.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe.config
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.exe
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SchoolMapSystem.pdb
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Dapper.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\itextsharp.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Material.Icons.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.pdb
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\ControlzEx.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Dapper.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\itextsharp.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.pdb
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.pdb
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Buffers.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Drawing.Common.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Memory.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\ButtonTheme.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmDataVisualization.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmMainWindow.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmEditTimetable.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_Content.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.cache
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.lref
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\App.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmDataVisualization.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmMainWindow.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\frmEditTimetable.baml
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.g.resources
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.Properties.Resources.resources
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.GenerateResource.cache
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CopyComplete
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.exe
+C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb

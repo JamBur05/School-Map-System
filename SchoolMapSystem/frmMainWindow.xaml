@@ -1,0 +1,434 @@
+﻿<Window x:Class="SchoolMapSystem.frmMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SchoolMapSystem"
+        mc:Ignorable="d"
+        Title="Woking College Map System" Height="750" Width="1700"
+        ResizeMode="NoResize">
+    <!-- Background -->
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2F4BFF" Offset="0.905"/>
+                <GradientStop Color="#FF6BE4FF" Offset="0.392"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <!-- Timetable -->
+        <DataGrid x:Name="dgTimetable"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True" Margin="1152,355,92,197">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Timetable ID" Binding="{Binding TimetableID}" Visibility="Collapsed" />
+                <DataGridTextColumn Header="User ID" Binding="{Binding UserID}" Visibility="Collapsed"  />
+                <DataGridTextColumn Header="Username" Binding="{Binding User.Username}"  Visibility="Collapsed" />
+                <DataGridTextColumn Header="Day" Binding="{Binding Day}" />
+                <DataGridTextColumn Header="Period 1" Binding="{Binding Period1Lesson.LessonName}" />
+                <DataGridTextColumn Header="Period 2" Binding="{Binding Period2Lesson.LessonName}" />
+                <DataGridTextColumn Header="Period 3" Binding="{Binding Period3Lesson.LessonName}" />
+                <DataGridTextColumn Header="Period 4" Binding="{Binding Period4Lesson.LessonName}" />
+                <DataGridTextColumn Header="Period 5" Binding="{Binding Period5Lesson.LessonName}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <!-- Map & Data Inputs -->
+        <Image HorizontalAlignment="Left" Height="688" VerticalAlignment="Top" Width="950" Source="Map.png" Margin="399,0,0,0"/>
+        <ComboBox x:Name="cmbStart" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="134,69,0,0">
+            <ComboBoxItem>Drama</ComboBoxItem>
+            <ComboBoxItem>Media</ComboBoxItem>
+            <ComboBoxItem>English</ComboBoxItem>
+            <ComboBoxItem>Art</ComboBoxItem>
+            <ComboBoxItem>Science</ComboBoxItem>
+            <ComboBoxItem>Social Science</ComboBoxItem>
+            <ComboBoxItem>Maths</ComboBoxItem>
+            <ComboBoxItem>PE</ComboBoxItem>
+            <ComboBoxItem>Music</ComboBoxItem>
+            <ComboBoxItem>Languages</ComboBoxItem>
+            <ComboBoxItem>Geography</ComboBoxItem>
+            <ComboBoxItem>Business</ComboBoxItem>
+            <ComboBoxItem>Law</ComboBoxItem>
+            <ComboBoxItem>Computer Science</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="cmbEnd" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="134,116,0,0">
+            <ComboBoxItem>Drama</ComboBoxItem>
+            <ComboBoxItem>Media</ComboBoxItem>
+            <ComboBoxItem>English</ComboBoxItem>
+            <ComboBoxItem>Art</ComboBoxItem>
+            <ComboBoxItem>Science</ComboBoxItem>
+            <ComboBoxItem>Social Science</ComboBoxItem>
+            <ComboBoxItem>Maths</ComboBoxItem>
+            <ComboBoxItem>PE</ComboBoxItem>
+            <ComboBoxItem>Music</ComboBoxItem>
+            <ComboBoxItem>Languages</ComboBoxItem>
+            <ComboBoxItem>Geography</ComboBoxItem>
+            <ComboBoxItem>Business</ComboBoxItem>
+            <ComboBoxItem>Law</ComboBoxItem>
+            <ComboBoxItem>Computer Science</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="btnGenerateRoute" Content="Generate Route" HorizontalAlignment="Left" Margin="128,170,0,0" VerticalAlignment="Top" Width="117" Height="32" Click="btnGenerateRoute_Click"/>
+
+        <!-- Nodes -->
+        <Rectangle x:Name="NodeA1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="898,570,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="810,454,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="810,530,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="689,530,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="632,570,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA8" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="619,530,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA15" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="668,493,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA20" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="711,481,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA19" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="711,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA17" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="781,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA18" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="781,392,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA21" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="711,392,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA14" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="689,410,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="711,362,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA5" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="810,362,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA9" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="632,362,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="689,216,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA11" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="847,271,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA12" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="960,454,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA16" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="824,510,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+        <Rectangle x:Name="NodeA13" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="824,401,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+
+        <!-- Node Labels-->
+        <Label Content="0" HorizontalAlignment="Left" Margin="898,567,0,0" VerticalAlignment="Top" Height="41" Width="27" FontSize="9"/>
+        <Label Content="1" HorizontalAlignment="Left" Margin="810,449,0,0" VerticalAlignment="Top" Height="23" Width="15" FontSize="9"/>
+        <Label Content="2" HorizontalAlignment="Left" Margin="810,525,0,0" VerticalAlignment="Top" Height="27" Width="15" FontSize="9"/>
+        <Label Content="3" HorizontalAlignment="Left" Margin="689,524,0,0" VerticalAlignment="Top" Height="30" Width="15" FontSize="9"/>
+        <Label Content="4" HorizontalAlignment="Left" Margin="810,360,0,0" VerticalAlignment="Top" Height="23" Width="15" FontSize="9"/>
+        <Label Content="5" HorizontalAlignment="Left" Margin="711,360,0,0" VerticalAlignment="Top" Height="25" Width="19" FontSize="9"/>
+        <Label Content="6" HorizontalAlignment="Left" Margin="632,567,0,0" VerticalAlignment="Top" Height="31" Width="15" FontSize="9"/>
+        <Label Content="7" HorizontalAlignment="Left" Margin="619,524,0,0" VerticalAlignment="Top" Height="24" Width="15" FontSize="9"/>
+        <Label Content="8" HorizontalAlignment="Left" Margin="632,358,0,0" VerticalAlignment="Top" Height="25" Width="15" FontSize="9"/>
+        <Label Content="9" HorizontalAlignment="Left" Margin="689,212,0,0" VerticalAlignment="Top" Height="26" Width="15" FontSize="9"/>
+        <Label Content="10" HorizontalAlignment="Left" Margin="847,266,0,0" VerticalAlignment="Top" Height="28" Width="21" FontSize="9"/>
+        <Label Content="11" HorizontalAlignment="Left" Margin="956,449,0,0" VerticalAlignment="Top" Height="25" Width="24" FontSize="9"/>
+        <Label Content="12" HorizontalAlignment="Left" Margin="820,397,0,0" VerticalAlignment="Top" Height="30" Width="23" FontSize="9"/>
+        <Label Content="13" HorizontalAlignment="Left" Margin="687,406,0,0" VerticalAlignment="Top" Height="33" Width="24" FontSize="9"/>
+        <Label Content="14" HorizontalAlignment="Left" Margin="664,491,0,0" VerticalAlignment="Top" Height="23" Width="26" FontSize="9"/>
+        <Label Content="15" HorizontalAlignment="Left" Margin="820,506,0,0" VerticalAlignment="Top" Height="19" Width="19" FontSize="9"/>
+        <Label Content="16" HorizontalAlignment="Left" Margin="777,510,0,0" VerticalAlignment="Top" Height="19" Width="19" FontSize="9"/>
+        <Label Content="17" HorizontalAlignment="Left" Margin="777,386,0,0" VerticalAlignment="Top" Height="26" Width="23" FontSize="9"/>
+        <Label Content="18" HorizontalAlignment="Left" Margin="707,510,0,0" VerticalAlignment="Top" Height="24" Width="23" FontSize="9"/>
+        <Label Content="19" HorizontalAlignment="Left" Margin="711,478,0,0" VerticalAlignment="Top" Height="32" Width="25" FontSize="9"/>
+        <Label Content="20" HorizontalAlignment="Left" Margin="709,390,0,0" VerticalAlignment="Top" Height="26" Width="25" FontSize="9"/>
+
+        <!-- Lines connecting nodes -->
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="136" Margin="861,453,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-32.996"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="61" Margin="817,469,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.356"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="106" Margin="757,482,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.371"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="54" Margin="661,511,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.371"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="667,529,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="49.524"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="28" Margin="634,544,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-19.168"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="157" Margin="630,374,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="181.628"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="64" Margin="678,337,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="92.611"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="84" Margin="767,329,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.313"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="77" Margin="817,377,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.84"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="29" Margin="810,389,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-79.32"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="753,371,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.265"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="10" Margin="707,403,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-126.601"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="37" Margin="707,375,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-154.78"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="31" Margin="696,479,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="68.552"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="18" Margin="718,495,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.045"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="56" Margin="753,493,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.132"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="107" Margin="790,407,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="178.912"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="27" Margin="809,507,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.044"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="25" Margin="685,507,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-26.227"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="137" Margin="693,232,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.663"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="26" Margin="709,225,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-61.372"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="21" Margin="721,244,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.282"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="127" Margin="784,210,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-81.966"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="99" Margin="893,272,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.827"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="103" Margin="924,359,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="2.861"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="134" Margin="892,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.16"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="7" Margin="820,408,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.721"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="7" Margin="820,511,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.044"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="NodeA22" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="687,362,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Rectangle x:Name="NodeA23" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="916,454,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" RenderTransformOrigin="1.6,-0.533"/>
+        <Label Content="22" HorizontalAlignment="Left" Margin="916,449,0,0" VerticalAlignment="Top" Height="26" Width="25" FontSize="9"/>
+        <Label Content="21" HorizontalAlignment="Left" Margin="686,360,0,0" VerticalAlignment="Top" Height="26" Width="25" FontSize="9"/>
+        <Button x:Name="btnGenerateTimetable" Content="Generate Timetable" HorizontalAlignment="Left" Margin="1108,267,0,0" VerticalAlignment="Top" Width="117" Click="btnGenerateTimetable_Click" Height="34"/>
+        <Label Content="Period:" HorizontalAlignment="Left" Margin="1108,153,0,0" VerticalAlignment="Top" Width="102" FontSize="16"/>
+        <Label x:Name="XAMLPeriodCounter" Content="" HorizontalAlignment="Left" Margin="1171,153,0,0" VerticalAlignment="Top" Width="108" FontSize="16"/>
+        <Button x:Name="btnModifyTimetable" Content="Edit Timetable" HorizontalAlignment="Left" Margin="1152,624,0,0" VerticalAlignment="Top" Width="118" Click="btnModifyTimetable_Click" Height="34"/>
+        <Button x:Name="btnEmailSend" Content="Email Lessons" HorizontalAlignment="Left" Margin="1152,576,0,0" VerticalAlignment="Top" Width="117" Click="btnEmailSend_Click" Height="34"/>
+        <Label x:Name="lblfrmlesson" Content="From lesson: " HorizontalAlignment="Left" Margin="1108,184,0,0" VerticalAlignment="Top" Width="371" FontSize="16"/>
+        <Label x:Name="lbltolesson" Content="To lesson: " HorizontalAlignment="Left" Margin="1128,208,0,0" VerticalAlignment="Top" Width="356" FontSize="16"/>
+        <Rectangle Fill="#FFFD1A1A" HorizontalAlignment="Left" Height="26" Margin="290,65,0,0" Stroke="Black" VerticalAlignment="Top" Width="26"/>
+        <Rectangle Fill="#FF38FD24" HorizontalAlignment="Left" Height="26" Margin="290,112,0,0" Stroke="Black" VerticalAlignment="Top" Width="26"/>
+        <Label Content="Starting Location:" HorizontalAlignment="Left" Margin="14,69,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Content="Ending Location:" HorizontalAlignment="Left" Margin="20,112,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label x:Name="lblTime" Content="Time taken" HorizontalAlignment="Left" Margin="1128,231,0,0" VerticalAlignment="Top" Width="356" FontSize="16"/>
+        <Label Content="Welcome!" HorizontalAlignment="Left" Margin="1226,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblUserName" Content="" HorizontalAlignment="Left" Margin="1176,41,0,0" VerticalAlignment="Top" FontSize="16" Width="180" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="35"/>
+        <Label x:Name="lblDayOfWeek" Content="Today is" HorizontalAlignment="Left" Margin="1108,116,0,0" VerticalAlignment="Top" Width="264" FontSize="16"/>
+        <Label Content="Your timetable: " HorizontalAlignment="Left" Margin="1108,319,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Button x:Name="btnAdminPanel" Content="Admin Panel" HorizontalAlignment="Left" Margin="1506,624,0,0" VerticalAlignment="Top" Width="118" Click="btnAdminPanel_Click" Height="34" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
