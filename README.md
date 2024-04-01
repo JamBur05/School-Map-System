@@ -9,4 +9,4 @@
 
 ---
 
-<img src="./assets/GIFMap.gif" height="550"/>
+<img src="./assets/GIFMap.gif" height="350"/>
