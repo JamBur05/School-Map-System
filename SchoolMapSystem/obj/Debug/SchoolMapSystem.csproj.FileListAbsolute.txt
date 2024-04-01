@@ -585,3 +585,24 @@ C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem
 C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CopyComplete
 C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.exe
 C:\Users\James\Desktop\Final NEA\Experiment Code\SchoolMapSystem\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.AssemblyReference.cache
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\ButtonTheme.baml
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmDataVisualization.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmMainWindow.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmEditTimetable.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\App.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem_Content.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.cache
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem_MarkupCompile.lref
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\App.baml
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmDataVisualization.baml
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmLoginRegisterScreen.baml
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmMainWindow.baml
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\frmEditTimetable.baml
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem.g.resources
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem.Properties.Resources.resources
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.GenerateResource.cache
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\randomgit\School-Map-System\SchoolMapSystem\obj\Debug\SchoolMapSystem.pdb
