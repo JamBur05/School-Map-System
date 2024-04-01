@@ -4,8 +4,8 @@
 
 ---
 
-- Uses **Dijkstras algorithm** to calculate the shortest distance between two locations within the College
-- Access student account, inlcuding timetable data, from **SQLITE** database
+- Uses **Dijkstras algorithm** to calculate the shortest distance between two locations within the college
+- Accesses student accounts, inlcuding timetable data, from **SQLITE** database
 
 ---
 
